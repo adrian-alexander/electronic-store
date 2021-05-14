@@ -1,5 +1,4 @@
 Adrian Alexander
-101150602
 
 Appliance.java
 Computer.java
