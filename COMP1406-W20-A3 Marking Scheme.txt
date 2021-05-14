@@ -1,0 +1,23 @@
+Total Marks: 50
+
+On Window Open (1 mark each, 5 marks total):
+	Interface closely matches the design from the assignment specification
+	Store Summary fields are initialized correctly
+	Most Popular Items initialized correctly
+	Store Stock inititialized correctly
+	Correct buttons enabled/disabled
+	
+Event Handling (35 marks):
+	Buttons activated/deactivated correctly (3 marks)
+	Add to Cart functionality (6 marks)
+	Remove from Cart functionality (6 marks)
+	Complete Sale functionality (6 marks)
+	Reset Store functionality (3 marks)
+	Popular Items correctly updated (8 marks)
+	Store Summary correctly updated (3 marks)
+	
+Overall Code Quality (10 marks):
+	Uses model/view/controller paradigm
+	Classes are sufficiently separated/modular
+	Proper encapsulation is still in use
+	
